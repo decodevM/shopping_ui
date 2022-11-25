@@ -7,4 +7,4 @@
 
 ## Full Tutorial
 
-[![WhatsApp Clone Part 1](https://img.youtube.com/vi/1ye6XPXd_18/0.jpg)](https://www.youtube.com/watch?v=1ye6XPXd_18)
+[![Flutter Speed Code | Shopping UI](https://img.youtube.com/vi/1ye6XPXd_18/0.jpg)](https://www.youtube.com/watch?v=1ye6XPXd_18)
