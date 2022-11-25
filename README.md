@@ -1,16 +1,10 @@
-# shopping_ui
+# Shopping UI
+## A new Flutter project for Shopping UI app.
+<p align="center">
+  <img src="https://github.com/decodevM/shopping_ui/blob/main/assets/screenshots/home.png" width="200" title="Shopping Home">
+  <img src="https://github.com/decodevM/shopping_ui/blob/main/assets/screenshots/product.png" width="200" title="Shopping Product">
+</p>
 
-A new Flutter project.
+## Tutorial Part 1
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![WhatsApp Clone Part 1](https://img.youtube.com/vi/1ye6XPXd_18/0.jpg)](https://www.youtube.com/watch?v=1ye6XPXd_18)
