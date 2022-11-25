@@ -1,6 +1,6 @@
 # Shopping UI
 ## A new Flutter project for Shopping UI app.
-<p align="center">
+<p align="left">
   <img src="https://github.com/decodevM/shopping_ui/blob/main/assets/screenshots/home.png" width="200" title="Shopping Home">
   <img src="https://github.com/decodevM/shopping_ui/blob/main/assets/screenshots/product.png" width="200" title="Shopping Product">
 </p>
