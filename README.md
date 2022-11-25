@@ -5,6 +5,6 @@
   <img src="https://github.com/decodevM/shopping_ui/blob/main/assets/screenshots/product.png" width="200" title="Shopping Product">
 </p>
 
-## Tutorial Part 1
+## Full Tutorial
 
 [![WhatsApp Clone Part 1](https://img.youtube.com/vi/1ye6XPXd_18/0.jpg)](https://www.youtube.com/watch?v=1ye6XPXd_18)
